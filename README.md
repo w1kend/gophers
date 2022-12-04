@@ -1,4 +1,7 @@
-# gophers
+# Gophers
+
+The [Go](https://go.dev) mascot images. Artwork by [Arina M.](https://www.behance.net/mkrva)
 
 # Licence
-The gophers in this repo are under [Attribution-NonCommercial-ShareAlike 4.0 International Licence](https://creativecommons.org/licenses/by-nc-sa/4.0/) which means you can't use them for commercial purposes.
+
+The images in this repo are under [Attribution 4.0 International licence](https://creativecommons.org/licenses/by/4.0/).
